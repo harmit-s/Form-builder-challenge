@@ -1,0 +1,35 @@
+.nav-sidebar {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 5px;
+  max-height: 600px;
+  overflow-y: auto;
+}
+
+.nav {
+  list-style: none;
+  padding-left: 0;
+}
+
+.nav li {
+  margin-bottom: 15px;
+}
+
+.nav li button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  width: 100%;
+  text-align: left;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.nav li button:hover {
+  background-color: #0056b3;
+}
+
+.nav li i {
+  margin-left: 10px;
+}
